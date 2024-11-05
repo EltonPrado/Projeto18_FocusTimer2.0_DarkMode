@@ -7,7 +7,7 @@
 O projeto foi desenvolvido como desafio do curso Explorer da Rocketseat. 
 <br>
 
-Ele consiste em um temporizador para foco, onde o usuário defini o seu tempo de estudo. Diferente da versão 2.0, essa conta com: 
+Ele consiste em um temporizador para foco, onde o usuário defini o seu tempo de estudo. Diferente da primeira versão mais simplificada, essa conta com: 
 - Dark mode
 - Cards de sons ambientes com volume ajustável 
 
